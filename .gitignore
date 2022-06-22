@@ -1,0 +1,5 @@
+.history
+__pycache__
+sql.db
+alembic.ini
+blog.db
